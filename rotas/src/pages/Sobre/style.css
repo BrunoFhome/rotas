@@ -1,0 +1,31 @@
+.alteralink{
+    justify-content: space-between;
+    border: 2px;
+    text-decoration: none;
+    color: #ff7474;
+    font-size: 40px;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+    
+}
+
+.alteralink:hover{
+    color: red;
+}
+
+body{
+    background-color: rgb(182, 182, 182);
+}
+
+.paragrafo{
+    border: 5px dotted;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 480px;
+}
